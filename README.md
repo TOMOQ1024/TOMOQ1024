@@ -2,7 +2,9 @@ NAME : @TOMOQ1024
 
 FROM : Japan
 
-ICON : [mandelbrot set](icon.png)
+ICON : mandelbrot set
+
+<img src="icon.png" width="300px">
 
 INTEREST : programming, math art, music
 
