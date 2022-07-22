@@ -1,4 +1,4 @@
-NAME : @TOMOQ1024
+NAME : TOMOQ1024
 
 FROM : Japan
 
