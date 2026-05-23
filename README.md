@@ -1,11 +1,16 @@
-NAME : TOMOQ1024
+<div align=center>
 
-FROM : Japan
+# TOMOQ1024
 
-ICON : mandelbrot set
+Geometric visualization enthusiast  
 
-<img src="icon.png" width="300px">
+<br/>  
 
-INTEREST : programming, math art, music
+<img width="400" alt="HHKVLFdbgAAmT9F" src="https://github.com/user-attachments/assets/48ee8f2e-e3b9-4398-9e45-ada8514d131c" />
 
-CONTACT : [Twitter](https://twitter.com/TOMOQ8192)
+<br/><br/>
+
+[![Website](https://img.shields.io/badge/preview.tomoq.net-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://preview.tomoq.net/)
+[![X](https://img.shields.io/badge/@TOMOQ8192-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TOMOQ8192)
+
+</div>
